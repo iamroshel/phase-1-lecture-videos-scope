@@ -7,3 +7,4 @@
 - [Variable scope](https://javascript.info/closure)
 - [Scope in JavaScript](https://dmitripavlutin.com/javascript-scope/)
 - [YDKJS: The Scope Chain](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch3.md)
+c
